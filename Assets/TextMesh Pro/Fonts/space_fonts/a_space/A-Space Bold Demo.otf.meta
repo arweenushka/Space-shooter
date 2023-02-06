@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: fd59d6881a9ad4af8815c849e8a0bbde
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: A-Space Demo
+  fontNames:
+  - A-Space Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 68c3cb1285357422ba8bb8d81197abba, type: 3}
+  - {fileID: 12800000, guid: 775ab4354bb39415facf8ae63155e646, type: 3}
+  - {fileID: 12800000, guid: ac45370b51e574bc787d85f74999fff8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
